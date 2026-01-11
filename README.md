@@ -1,4 +1,4 @@
-# nsg-taxi-api
+# Taxi Booking Api
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
